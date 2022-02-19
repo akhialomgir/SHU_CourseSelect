@@ -1,0 +1,35 @@
+{
+  "master": {
+    "username": "",
+    "password": ""
+  },
+  "term": {
+    "termId": ""
+  },
+  "params": {
+    "cids": [],
+    "tnos": []
+  },
+  "servant": {
+    "username": "",
+    "password": ""
+  },
+  "query": {
+    "PageIndex": "1",
+    "PageSize": "10",
+    "FunctionString": "LoadData",
+    "CID": "",
+    "CourseName": "",
+    "IsNotFull": "false",
+    "CourseType": "B",
+    "TeachNo": "",
+    "TeachName": "",
+    "Enrolls": "",
+    "Capacity1": "",
+    "Capacity2": "",
+    "CampusId": "",
+    "CollegeId": "",
+    "Credit": "",
+    "TimeText": ""
+  }
+}
